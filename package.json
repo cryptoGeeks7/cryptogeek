@@ -1,14 +1,14 @@
 {
-  "name": "@cryptogeeks/sdk",
+  "name": "@cgswap/sdk",
   "license": "MIT",
-  "version": "2.3.2",
+  "version": "1.0.0",
   "description": "🛠 An SDK for building applications on top of cryptoGeeks.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/cryptoGeeks7/cryptoGeekSwap.git",
+  "repository": "https://github.com/cryptoGeeks7/cryptoGeekSwap",
   "keywords": [
     "cryptoGeeks",
     "bsc"
