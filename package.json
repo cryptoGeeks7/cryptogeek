@@ -1,5 +1,5 @@
 {
-  "name": "@cgswap/sdk",
+  "name": "@cryptogeek/sdk",
   "license": "MIT",
   "version": "1.0.0",
   "description": "🛠 An SDK for building applications on top of cryptoGeeks.",
@@ -8,9 +8,9 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/cryptoGeeks7/cryptoGeekSwap",
+  "repository": "https://github.com/cryptoGeeks7/cryptogeek.git",
   "keywords": [
-    "cryptoGeeks",
+    "cryptogeek",
     "bsc"
   ],
   "module": "dist/sdk.esm.js",
